@@ -1,1 +1,7 @@
 /.idea
+*.exe
+*.test
+*.o
+*.a
+*.so
+*.DS_Store
